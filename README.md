@@ -1,6 +1,6 @@
 # Travelgram
 
-![Capa do Projeto](./assets/image/cover.png)
+![Capa do Projeto](./assets/projeto%20travelgram.png)
 
 ## O que é o projeto?
 O Travelgram é uma página de perfil de viagens estruturada para exibir informações pessoais e galerias de fotos de forma atrativa.
